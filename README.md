@@ -17,6 +17,9 @@ My main skills are:
 - 🥞 NoSQL / SQL Databases
 - 🎨 Raster/Vector Illustration
 
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/l0COJ5gIPUN2vOj5u/giphy.gif" width="400" height="400" />
+
+
 Check out my [portfolio site](https://cristinalester.rocks/) and my [LinkedIn profile](https://www.linkedin.com/in/cristinalesterrocks/)!
 
 
