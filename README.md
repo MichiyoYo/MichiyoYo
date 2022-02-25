@@ -10,16 +10,15 @@ My main skills are:
 - 👕✨DRY & Clean coding
 - 🚀 Performance Optimization
 - 👩‍🔬 Problem Solving
-- 📐 UX Design
+- 📐 UX Prototyping
 - 🐛 Debugging
 - 👌 Site Reliability
 - 💻 System Management
-- 🔥 Extra Fast Learning
 - 🧪 Test Driven Development
 - 🥞 NoSQL / SQL Databases
+- 🔥 Extra Fast Learning
 - 🎨 Raster/Vector Illustration
-
-
+- 🙏 Teamwork
 
 Check out my [portfolio site](https://cristinalester.rocks/) and my [LinkedIn profile](https://www.linkedin.com/in/cristinalesterrocks/)!
 
