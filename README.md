@@ -20,6 +20,6 @@ My main skills are:
 - 🎨 Raster/Vector Illustration
 - 🙏 Teamwork
 
-Check out my [portfolio site](https://cristinalester.rocks/) and my [LinkedIn profile](https://www.linkedin.com/in/cristinalesterrocks/)!
+Check out my [portfolio site](https://cristinalester.rocks/) and my [LinkedIn profile](https://www.linkedin.com/in/cristinalesterrocks/)!!
 
 
