@@ -1,14 +1,12 @@
-### 
+## Hi! It's Cree! 🦄
 
 My name is Cristina Lester, people call me Cree. I'm a full stack engineer and UX designer, with a burning passion for beautiful, responsive and accessible web applications. My code is DRY, readable, scalable, maintainable, reusable and performant.
 
 During the past 3 years I've been contributing to private repos with a separate, private account I cannot share so the majority of my contributions are hidden. 
 
-Check out my [portfolio site](https://cristinalester.rocks/) and my [LinkedIn profile](https://www.linkedin.com/in/cristinalesterrocks/)!
-
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/cristinalesterrocks/))
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kitten_surimi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=cristina.deelester@gmail.com)](mailto:cristina.deelester@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-cristinalesterrocks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/cristinalesterrocks/))]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/cristinalesterrocks/))
+[![Instagram Badge](https://img.shields.io/badge/-kitten_surimi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kitten_surimi)
+[![Gmail Badge](https://img.shields.io/badge/-cristina.deelester@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=cristina.deelester@gmail.com)](mailto:cristina.deelester@gmail.com)
 
 ## ⚡ Technologies
 
