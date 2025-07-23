@@ -2,7 +2,6 @@
 
 My name is Cristina Lester, people call me Cree. I'm a full stack engineer and UX designer, with a burning passion for beautiful, responsive and accessible web applications. My code is DRY, readable, scalable, maintainable, reusable and performant.
 
-During the past 3 years I've been contributing to private repos with a separate, private account I cannot share so the majority of my contributions are hidden. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-cristinalesterrocks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/cristinalesterrocks/))]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/cristinalesterrocks/))
 [![Instagram Badge](https://img.shields.io/badge/-kitten_surimi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kitten_surimi)
@@ -31,3 +30,5 @@ During the past 3 years I've been contributing to private repos with a separate,
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+During the past 3 years at work I've been contributing to private repos with a separate, private account. 
+<img width="1412" height="814" alt="Screenshot 2025-07-23 at 11 09 05 AM" src="https://github.com/user-attachments/assets/ed1e9d05-2ab3-44d8-8da6-94f565b23de4" />
