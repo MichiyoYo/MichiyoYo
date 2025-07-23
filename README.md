@@ -31,4 +31,4 @@ My name is Cristina Lester, people call me Cree. I'm a full stack engineer and U
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 During the past 3 years at work I've been contributing to private repos with a separate, private account. 
-<img width="1412" height="814" alt="Screenshot 2025-07-23 at 11 09 05 AM" src="https://github.com/user-attachments/assets/ed1e9d05-2ab3-44d8-8da6-94f565b23de4" />
+<img width="1412" height="814" alt="Screenshot 2025-07-23 at 11 09 05 AM" src="https://github.com/user-attachments/assets/227ea214-7ac8-408f-9d3a-fe58004f8d29" />
